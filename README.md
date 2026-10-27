@@ -13,10 +13,14 @@
 🔍 <i>Enjoy digging into where the time and memory actually go — from the math of an update rule down to the communication pattern.</i></br>
 🍚 <i>Life motto: <b>事已至此，先吃饭吧</b> — it is what it is, let's eat first.</i>
 
+## Experience 💼
+
+- 🏢 <b>Baidu</b>, BMU Pretraining Infra — Optimizer Infra Owner for ERNIE · <i>2025 – Present</i>
+
 ## Education 🎓
 
-- 🎓 <b>The Hong Kong University of Science and Technology (Guangzhou)</b> — MPhil, Data Science and Analytics (DSA) Thrust
-- 🎓 <b>China University of Petroleum, Beijing</b> — B.Eng. in Computer Science and Technology
+- 🎓 <b>The Hong Kong University of Science and Technology (Guangzhou)</b> — MPhil, Data Science and Analytics (DSA) Thrust · <i>2023 – 2025</i>
+- 🎓 <b>China University of Petroleum, Beijing</b> — B.Eng. in Computer Science and Technology · <i>2019 – 2023</i>
 
 ## Languages and Tools 🛠️
 

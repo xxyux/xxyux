@@ -4,10 +4,12 @@
 
 ![followers](https://img.shields.io/github/followers/xxyux?logo=GitHub&style=flat-square)
 ![stars](https://img.shields.io/github/stars/xxyux?logo=GitHub&style=flat-square)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8XNC1E0AAAAJ&hl=en)
+[![Gmail](https://img.shields.io/badge/yxr010527%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yxr010527@gmail.com)
 
 ## About me 📝
 
-🏢 <i>Pretraining infra engineer at <b>Baidu BMU</b>, and <b>owner of the optimizer infra for ERNIE</b> pretraining.</i></br>
+🏢 <i>Pretraining infra engineer at <b>Baidu BMU</b>, and <b>owner of the optimizer infra for ERNIE</b>.</i></br>
 ⚙️ <i>Focus on <b>optimizers</b>: bringing new optimizers (e.g. Muon-style orthogonalized updates) into distributed training, and making them fast — sharded optimizer states, fused kernels, checkpoint save / load / resharding.</i></br>
 🚀 <i>Also work on <b>distributed performance</b> in general: parallel strategies, communication overlap, and squeezing more throughput out of every GPU.</i></br>
 🔍 <i>Enjoy digging into where the time and memory actually go — from the math of an update rule down to the communication pattern.</i></br>

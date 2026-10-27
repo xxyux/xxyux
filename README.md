@@ -15,6 +15,11 @@
 🔍 <i>Enjoy digging into where the time and memory actually go — from the math of an update rule down to the communication pattern.</i></br>
 🍚 <i>Life motto: <b>事已至此，先吃饭吧</b> — it is what it is, let's eat first.</i>
 
+## Featured Work ✨
+
+- ⚡ <b>[`paddle.optimizer.Muon`](https://www.paddlepaddle.org.cn/documentation/docs/en/api/paddle/optimizer/Muon_en.html)</b> — the Muon optimizer in PaddlePaddle: Newton–Schulz orthogonalized momentum updates for 2D weight matrices, with AdamW handling the rest ([source](https://github.com/PaddlePaddle/Paddle/blob/develop/python/paddle/optimizer/muon.py)).
+- 🧩 <b>[`MuonShardingOptimizer`](https://github.com/PaddlePaddle/Paddle/blob/develop/python/paddle/distributed/fleet/meta_optimizers/muon_sharding_optimizer.py)</b> — sharding-stage-1 support for Muon in Paddle Fleet: whole matrices are assigned to owner ranks so orthogonalization stays local, while the remaining parameters are sharded element-wise.
+
 ## Experience 💼
 
 - 🏢 <b>Baidu</b>, BMU Pretraining Infra — Optimizer Infra Owner for ERNIE · <i>2025 – Present</i>
